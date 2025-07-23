@@ -167,7 +167,7 @@ then it is possible that then we have,
 
 for ex (x0+1) + ... = 12
 then,
-12 + n(inf) = 6*2 + n(inf)
+12 + n(inf) = 6\*2 + n(inf)
 so is it possible that we can enemurate amount of factors
 for 12 this way some how then ?
 

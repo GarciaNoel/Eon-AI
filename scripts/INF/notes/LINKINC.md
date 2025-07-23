@@ -1,4 +1,4 @@
-[TODO]
+[Algorithm]
 
 Start with a graph G that is a collection of points P.
 Bag any groups of points that are element of P by adding a point b of points B to the graph that is connected to all selected elements of P.
